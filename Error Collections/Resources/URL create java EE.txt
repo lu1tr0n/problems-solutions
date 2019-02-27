@@ -14,10 +14,12 @@ https://www.ibm.com/support/knowledgecenter/es/SS8PJ7_9.6.1/com.ibm.javaee.doc/t
 
 https://www.ibm.com/support/knowledgecenter/es/SSCLKU_7.5.5/org.eclipse.jst.ejb.doc.user/topics/cejb3.html
 
+https://netbeans.org/kb/docs/web/hibernate-webapp.html
+
 
 // PDF's
 https://www.fdi.ucm.es/profesor/jpavon/web/45-ejb.pdf
 
 
 // Busqueda
-Creando una aplicación Enterprise con EJB
+Creando una aplicaciÃ³n Enterprise con EJB
