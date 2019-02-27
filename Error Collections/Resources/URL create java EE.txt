@@ -16,6 +16,8 @@ https://www.ibm.com/support/knowledgecenter/es/SSCLKU_7.5.5/org.eclipse.jst.ejb.
 
 https://netbeans.org/kb/docs/web/hibernate-webapp.html
 
+https://www.javatutoriales.com/
+
 
 // PDF's
 https://www.fdi.ucm.es/profesor/jpavon/web/45-ejb.pdf
