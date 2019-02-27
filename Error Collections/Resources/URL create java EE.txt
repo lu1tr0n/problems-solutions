@@ -18,6 +18,7 @@ https://netbeans.org/kb/docs/web/hibernate-webapp.html
 
 https://www.javatutoriales.com/
 
+http://www.javaknowledge.info/how-to-use-group-by-in-jasper-report-video-tutorial/
 
 // PDF's
 https://www.fdi.ucm.es/profesor/jpavon/web/45-ejb.pdf
