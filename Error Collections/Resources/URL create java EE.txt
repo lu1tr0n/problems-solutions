@@ -1,1 +1,9 @@
+// Recurso defasado
 https://www.apuntesdejava.com/2007/11/tutorial-ejb-30-enterprise-beans-con.html
+
+// Recurso un poco actualizado
+https://netbeans.org/kb/docs/javaee/javaee-entapp-ejb.html
+
+
+// Guia basica para Git
+http://rogerdudler.github.io/git-guide/index.es.html
