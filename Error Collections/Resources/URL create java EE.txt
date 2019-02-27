@@ -7,3 +7,17 @@ https://netbeans.org/kb/docs/javaee/javaee-entapp-ejb.html
 
 // Guia basica para Git
 http://rogerdudler.github.io/git-guide/index.es.html
+
+
+// Documentacion sobre aplicaciones empresariales JAVA EE
+https://www.ibm.com/support/knowledgecenter/es/SS8PJ7_9.6.1/com.ibm.javaee.doc/topics/cejb3.htm
+
+https://www.ibm.com/support/knowledgecenter/es/SSCLKU_7.5.5/org.eclipse.jst.ejb.doc.user/topics/cejb3.html
+
+
+// PDF's
+https://www.fdi.ucm.es/profesor/jpavon/web/45-ejb.pdf
+
+
+// Busqueda
+Creando una aplicación Enterprise con EJB
