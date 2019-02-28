@@ -27,6 +27,12 @@ https://unpocodejava.com/
 
 https://jmeter.apache.org/
 
+// ***********************************************************************
+https://stormpath.com/blog/build-spring-boot-spring-security-app
+https://stormpath.com/blog/5-practical-tips-for-building-your-spring-boot-api
+https://stormpath.com/blog/fun-with-java-spring-boot-token-management
+// ***********************************************************************
+
 // !important
 http://www.javapractices.com/home/HomeAction.do
 
