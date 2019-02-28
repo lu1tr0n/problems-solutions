@@ -33,6 +33,8 @@ http://www.javapractices.com/home/HomeAction.do
 // PDF's
 https://www.fdi.ucm.es/profesor/jpavon/web/45-ejb.pdf
 
+// Documentacion oficial de Oracle - JAVA EE7
+https://docs.oracle.com/javaee/7/index.html
 
 // Busqueda
 Creando una aplicación Enterprise con EJB
