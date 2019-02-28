@@ -20,6 +20,9 @@ https://www.javatutoriales.com/
 
 http://www.javaknowledge.info/how-to-use-group-by-in-jasper-report-video-tutorial/
 
+// !important
+http://www.javapractices.com/home/HomeAction.do
+
 // PDF's
 https://www.fdi.ucm.es/profesor/jpavon/web/45-ejb.pdf
 
