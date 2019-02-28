@@ -20,6 +20,9 @@ https://www.javatutoriales.com/
 
 http://www.javaknowledge.info/how-to-use-group-by-in-jasper-report-video-tutorial/
 
+// Tutorial de JSF - Ciclo de vida
+https://www.apuntesdejava.com/2013/11/tutorial-jsf-22-sesion-3-ciclo-de-vida.html
+
 https://unpocodejava.com/
 
 https://jmeter.apache.org/
