@@ -1,0 +1,2 @@
+// *********** Documentacion en Español para consulta de PL-SQL Oracle
+http://ora.u440.com/conversion/case.html
