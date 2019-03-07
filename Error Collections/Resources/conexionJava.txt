@@ -1,0 +1,1 @@
+https://javarevisited.blogspot.com/2015/06/how-to-connect-to-mysql-database-in-java-jdbc-example.html
